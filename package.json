@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "demo_tubro",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhtienvu/Rails_demo_turbo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhtienvu/Rails_demo_turbo/issues"
+  },
+  "homepage": "https://github.com/minhtienvu/Rails_demo_turbo#readme"
+}
