@@ -47,6 +47,7 @@ gem "simple_form", "~> 5.1.0"
 # Use Sass to process CSS
 gem "sassc-rails"
 
+gem "devise", "~> 4.8.1"
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
